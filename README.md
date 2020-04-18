@@ -2,19 +2,18 @@
 LOGISTICS 1 (4-SUB-MODULES)
 Project Management | Asset Management | Procurement | Warehouse
 •	Duration: July 2018 – February 2019
-•	Team Size: 6
-•	Version: Java SE 8
-•	IDE: NetBeans 8.2
-•	Role Played: Lead Programmer
-•	Skill Used: Java SE, MS SQL SERVER 2017
-•	Type of Application: Desktop Application (Java Application)
 
-The Logistics System have a project timeline, project list, project risk, request,
-and received item. Purchase order, bidding process, budget, awarding and contract. Stocklist, request new item, received item, released item, and
-analysis report. Assetlist, maintenance, asset valuation, receiving item and 
-delivered item. Project management, Procurement, Warehouse and Asset discussed the process and workflow, the output in the system it may delivered, improved and organized. Implemented in the system, 
-notify the approval and pending of an item.
-The managing of project, often security, purchasing item, inventory, reporting, operating, maintaining, upgrading, and disposing of assets cost-effectively these are the contents in the system.
+•	Team Size: 6
+
+•	Version: Java SE 8
+
+•	IDE: NetBeans 8.2
+
+•	Role Played: Lead Programmer
+
+•	Skill Used: Java SE, MS SQL SERVER 2017
+
+•	Type of Application: Desktop Application (Java Application)
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/55613764/79627438-be73d480-816a-11ea-8d36-0465341c97b2.png)
 
@@ -86,4 +85,11 @@ The managing of project, often security, purchasing item, inventory, reporting, 
 
 ![Screenshot (99)](https://user-images.githubusercontent.com/55613764/79627703-009e1580-816d-11ea-9a59-a17a3bec3695.png)
 
+LOGISTIC:
 
+The Logistics System have a project timeline, project list, project risk, request,
+and received item. Purchase order, bidding process, budget, awarding and contract. Stocklist, request new item, received item, released item, and
+analysis report. Assetlist, maintenance, asset valuation, receiving item and 
+delivered item. Project management, Procurement, Warehouse and Asset discussed the process and workflow, the output in the system it may delivered, improved and organized. Implemented in the system, 
+notify the approval and pending of an item.
+The managing of project, often security, purchasing item, inventory, reporting, operating, maintaining, upgrading, and disposing of assets cost-effectively these are the contents in the system.
