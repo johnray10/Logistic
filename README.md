@@ -1,6 +1,7 @@
 # Logistic
 LOGISTICS 1 (4-SUB-MODULES)
 Project Management | Asset Management | Procurement | Warehouse
+
 •	Duration: July 2018 – February 2019
 
 •	Team Size: 6
